@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       //Configurar tema
       //La pantalla inicial
-      initialRoute: "/listview1",
+      initialRoute: "/listview2",
       //Las rutas del proyecto
       routes: {
         "/listview1": (BuildContext context) => ListView1(),
