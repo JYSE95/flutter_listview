@@ -1,18 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ListView1 extends StatelessWidget {
-  var games = [
-    "Taylor Swift",
-    "Fearless",
-    "Speak Now",
-    "Red",
-    "1989",
-    "Reputation",
-    "Lover",
-    "Folklore",
-    "Evermore",
-    "Midnights"
-  ];
+  var games = ["pou", "fornite", "pacman", "mortal kombat"];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
